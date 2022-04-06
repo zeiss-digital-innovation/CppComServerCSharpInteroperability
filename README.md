@@ -1,3 +1,3 @@
 # Cpp COM Server C# Interoperability
 
-Dieses Repository bezoeht sich darauf diese US [User Story](https://zdi-jira.zeiss.com/browse/TADIIIS-688). Im PInvokeTutorial Ordenere befinden sich zwei Dateien nämlich PInvoke - Teile 1.docx und PInvoke - Teile 2.docx, die Sie folgen können, um mit dem PInvoke vertrauen zu machen.
+Dieses Repository bezieht sich darauf diese US [User Story](https://zdi-jira.zeiss.com/browse/TADIIIS-688). Hier befindet sich das Datei "Com Server & Client Know How Schritt-für-Schritt.docx", das Sie folgen können, um mit dem COM-Server vetraut zu machen.
